@@ -83,7 +83,6 @@ section{
     width: 500px;
     height: 400px;
     padding-right: 30px;
-
 }
 
 .landingpg .rowcon .content{
@@ -136,4 +135,186 @@ section{
 
 .landingpg .rowcon .content #exp{
     color: #ec4067;
+}
+
+.orientation h2{
+    font-weight: 800;
+    font-size: 30px;
+}
+/* I have to revisit the bg color */
+.orientation h2 #stories{
+    font-weight: 800;
+    font-size: 30px;
+    background-color:rgb(245, 245, 245);
+}
+
+.orientation h2 sub{
+    font-size: 15px;
+}
+
+.orientation .orie{
+    display: flex;
+    padding-top: 50px;
+}
+
+.orientation .orie .orie-img{
+    float: left;
+}
+
+.orientation .orie .orie-img img{
+    width: 500px;
+    margin-right: 1px;
+}
+
+/* .numberone{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    color: #fff;
+}
+
+.datesep{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    color: #fff;
+} */
+
+.orientation .orie .cont-story{
+    float: right;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+.orientation .orie .cont-story h2{
+    font-weight: 800;
+}
+
+.orientation .orie .cont-story p{
+    font-size: 25px;
+    font-weight: 500;
+    padding-top: 30px;
+}
+
+.orientation .orie .cont-story button{
+    margin-top: 30px;
+    width: 150px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.orientation .orie .cont-story button a{
+    font-size: 20px;
+}
+
+.orientation .orie .cont-story #see-al{
+    background-color: #ec4067;
+    border-radius: 5px;
+    border: none;
+}
+
+.orientation .orie .cont-story #see-alb{
+    color: white;
+}
+
+.board .bord{
+    display: flex;
+    padding-top: 50px;
+}
+
+.board .bord .conte-story{
+    float: left;
+    padding-right: 100px;
+    padding-top: 50px;
+}
+
+.board .bord .conte-story h2{
+    font-weight: 800;
+}
+
+.board .bord .conte-story p{
+    font-size: 25px;
+    font-weight: 500;
+    padding-top: 30px;
+}
+
+.board .bord .conte-story button{
+    margin-top: 30px;
+    width: 180px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.board .bord .conte-story button a{
+    font-size: 20px;
+}
+
+.board .bord .conte-story #read-out{
+    background-color: #ec4067;
+    border-radius: 5px;
+    border: none;
+}
+
+.board .bord .conte-story #read{
+    color: white;
+}
+
+.board .bord .board-img{
+    float: right;
+}
+
+.board .bord .board-img img{
+    width: 500px;
+    margin-right: 1px;
+}
+
+.graduation .gradua{
+    display: flex;
+    padding-top: 50px;
+}
+
+.graduation .gradua .grad-img{
+    float: left;
+}
+
+.graduation .gradua .grad-img img{
+    width: 500px;
+    margin-right: 1px;
+}
+
+.graduation .gradua .conten-story{
+    float: right;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+.graduation .gradua .conten-story h2{
+    font-weight: 800;
+}
+
+.graduation .gradua .conten-story p{
+    font-size: 25px;
+    font-weight: 500;
+    padding-top: 30px;
+}
+
+.graduation .gradua .conten-story button{
+    margin-top: 30px;
+    width: 150px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.graduation .gradua .conten-story button a{
+    font-size: 20px;
+}
+
+.graduation .gradua .conten-story #see-all{
+    background-color: #ec4067;
+    border-radius: 5px;
+    border: none;
+}
+
+.graduation .gradua .conten-story #see-albu{
+    color: white;
 }
