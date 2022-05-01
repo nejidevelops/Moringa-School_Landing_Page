@@ -141,11 +141,11 @@ section{
     font-weight: 800;
     font-size: 30px;
 }
-/* I have to revisit the bg color */
+
 .orientation h2 #stories{
     font-weight: 800;
     font-size: 30px;
-    background-color:rgb(245, 245, 245);
+    background-color:rgb(231, 231, 231);
 }
 
 .orientation h2 sub{
@@ -317,5 +317,23 @@ section{
 
 .graduation .gradua .conten-story #see-albu{
     color: white;
+}
+
+.techmentor h2{
+    font-weight: 800;
+    font-size: 30px;
+}
+/* I have to revisit the bg color */
+.techmentor h2 #span-story{
+    font-weight: 800;
+    font-size: 30px;
+    background-color:rgb(231, 231, 231);
+}
+
+.techmentor h2 span{
+    font-weight: 800
+}
+.techmentor h2 sup{
+    font-size: 15px;
 }
 
