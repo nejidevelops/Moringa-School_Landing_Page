@@ -379,9 +379,6 @@ section{
     width: 130px;
     padding-top: 4px;
     padding-bottom: 4px; 
-    /* border-radius: 7px;
-    border: none;
-    background-color: #ec4067; */
 }
 
 .techmentor .techm .techrose .content-techrose button a{
@@ -428,9 +425,6 @@ section{
     width: 130px;
     padding-top: 4px;
     padding-bottom: 4px; 
-    /* border-radius: 7px;
-    border: none;
-    background-color: #ec4067; */
 }
 
 .techmentor .techm .techalbo .content-techalbo button a{
@@ -478,9 +472,6 @@ section{
     width: 130px;
     padding-top: 4px;
     padding-bottom: 4px; 
-    /* border-radius: 7px;
-    border: none;
-    background-color: #ec4067; */
 }
 
 .techmentor .techm .techrapho .content-techrapho button a{
@@ -497,12 +488,48 @@ section{
     color: white;
 }
 
-
-
 .techmentor .techm .techtia{
     padding-right: 20px;
 }
 
 .techmentor .techm .techtia .imgtia img{
     width: 250px;
+}
+
+.techmentor .techm .techtia .content-techtia{
+    padding-left: 10px;
+}
+
+.techmentor .techm .techtia .content-techtia h3{
+    color: #ec4067;
+    font-weight: 800;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 18px;
+}
+
+.techmentor .techm .techtia .content-techtia p{
+    padding-bottom: 10px;
+    font-size: 14px;
+    padding-right: 30px;
+}
+
+.techmentor .techm .techtia .content-techtia button{
+    width: 130px;
+    padding-top: 4px;
+    padding-bottom: 4px; 
+}
+
+.techmentor .techm .techtia .content-techtia button a{
+    font-size: 14px;
+}
+
+.techmentor .techm .techtia .content-techtia #aska{
+    background-color: #ec4067;
+    border-radius: 5px;
+    border: none;
+}
+
+.techmentor .techm .content-techtia #askia{
+    color: white;
 }
