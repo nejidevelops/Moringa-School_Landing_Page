@@ -398,17 +398,6 @@ section{
     color: white;
 } 
 
-
-
-
-
-
-
-
-
-
-
-
 .techmentor .techm .techalbo{
     padding-right: 30px;
 }
@@ -416,6 +405,48 @@ section{
 .techmentor .techm .techalbo .imgalbo img{
     width: 250px;
 }
+
+.techmentor .techm .techalbo .content-techalbo{
+    padding-left: 10px;
+}
+
+.techmentor .techm .techalbo .content-techalbo h3{
+    color: #ec4067;
+    font-weight: 800;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 18px;
+}
+
+.techmentor .techm .techalbo .content-techalbo p{
+    padding-bottom: 10px;
+    font-size: 14px;
+    padding-right: 30px;
+}
+
+.techmentor .techm .techalbo .content-techalbo button{
+    width: 130px;
+    padding-top: 4px;
+    padding-bottom: 4px; 
+    /* border-radius: 7px;
+    border: none;
+    background-color: #ec4067; */
+}
+
+.techmentor .techm .techalbo .content-techalbo button a{
+    font-size: 14px;
+}
+
+.techmentor .techm .techalbo .content-techalbo #askk{
+    background-color: #ec4067;
+    border-radius: 5px;
+    border: none;
+}
+
+.techmentor .techm .content-techalbo #aski{
+    color: white;
+} 
+
 
 .techmentor .techm .techrapho{
     padding-right: 30px;
