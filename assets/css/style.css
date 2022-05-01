@@ -165,14 +165,13 @@ section{
     width: 500px;
     margin-right: 1px;
 }
-
-/* .numberone{
+/*
+.numberone{
     position: absolute;
-    top: 8px;
+    top: 17px;
     right: 16px;
-    color: #fff;
 }
-
+ 
 .datesep{
     position: absolute;
     bottom: 8px;
@@ -340,4 +339,40 @@ section{
 .techmentor .techm{
     display: flex;
     padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.techmentor .techm .techrose{
+    padding-right: 30px;
+}
+
+.techmentor .techm .techrose .imgrose img{
+    width: 250px;
+}
+
+.techmentor .techm .techrose
+
+.techmentor .techm .techalbo{
+    padding-right: 30px;
+}
+
+.techmentor .techm .techalbo .imgalbo img{
+    width: 250px;
+}
+
+.techmentor .techm .techrapho{
+    padding-right: 30px;
+}
+
+.techmentor .techm .techrapho .imgrapho img{
+    width: 250px;
+}
+
+.techmentor .techm .techtia{
+    padding-right: 20px;
+}
+
+.techmentor .techm .techtia .imgtia img{
+    width: 250px;
 }
