@@ -166,19 +166,24 @@ section{
     width: 500px;
     margin-right: 1px;
 }
-/*
+
+.orie-img{
+    position: relative;
+}
+
 .numberone{
     position: absolute;
-    top: 17px;
+    top: 15px;
     right: 16px;
+    color: white;
 }
- 
+
 .datesep{
     position: absolute;
-    bottom: 8px;
+    bottom: 16px;
     left: 16px;
     color: #fff;
-} */
+} 
 
 .orientation .orie .cont-story{
     float: right;
@@ -268,6 +273,24 @@ section{
     margin-right: 1px;
 }
 
+.board-img{
+    position: relative;
+}
+
+.numbertwo{
+    position: absolute;
+    top: 15px;
+    left: 16px;
+    color: white;
+}
+
+.dateoct{
+    position: absolute;
+    bottom: 15px;
+    right: 16px;
+    color: #fff;
+} 
+
 .graduation .gradua{
     display: flex;
     padding-top: 50px;
@@ -280,6 +303,24 @@ section{
 .graduation .gradua .grad-img img{
     width: 500px;
     margin-right: 1px;
+}
+
+.grad-img{
+    position: relative;
+}
+
+.numberthree{
+    position: absolute;
+    top: 15px;
+    right: 16px;
+    color: white;
+}
+
+.datejune{
+    position: absolute;
+    bottom: 16px;
+    left: 16px;
+    color: #fff;
 }
 
 .graduation .gradua .conten-story{
@@ -353,11 +394,17 @@ section{
     width: 250px;
 }
 
-/* .techmentor .techm .techrose .imgrose .rose{
-    top: 50%;
-    color: #fff;
-    
-} */
+.imgrose{
+    position: relative;
+}
+
+.rose{
+    position: absolute;
+    bottom: 20px;
+    left: 15px;
+    color: white;
+    font-weight: 700;
+}
 
 .techmentor .techm .techrose .content-techrose{
     padding-left: 10px;
@@ -403,6 +450,18 @@ section{
 
 .techmentor .techm .techalbo .imgalbo img{
     width: 250px;
+}
+
+.imgalbo{
+    position: relative;
+}
+
+.albert{
+    position: absolute;
+    bottom: 20px;
+    left: 15px;
+    color: white;
+    font-weight: 700;
 }
 
 .techmentor .techm .techalbo .content-techalbo{
@@ -452,6 +511,18 @@ section{
     width: 250px;
 }
 
+.imgrapho{
+    position: relative;
+}
+
+.raphael{
+    position: absolute;
+    bottom: 20px;
+    left: 15px;
+    color: white;
+    font-weight: 700;
+}
+
 .techmentor .techm .techrapho .content-techrapho{
     padding-left: 10px;
 }
@@ -496,6 +567,18 @@ section{
 
 .techmentor .techm .techtia .imgtia img{
     width: 250px;
+}
+
+.imgtia{
+    position: relative;
+}
+
+.christine{
+    position: absolute;
+    bottom: 20px;
+    left: 15px;
+    color: white;
+    font-weight: 700;
 }
 
 .techmentor .techm .techtia .content-techtia{
@@ -662,8 +745,4 @@ footer{
     background-color: aliceblue;
     text-align: center;
     font-size: 20px;
-}
-
-footer span{
-    color: red;
 }
