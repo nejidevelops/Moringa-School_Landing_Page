@@ -42,6 +42,9 @@ As a user of the application,you will be able to :
 
 * Open the index file from the zipped file with any browser.
 
+## Live Link
+- Click this link to view the live application https://newtonombese.github.io/Moringa-School_Landing_Page/
+
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 
