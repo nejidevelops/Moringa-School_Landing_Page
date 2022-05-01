@@ -360,6 +360,10 @@ section{
     color: white;
 }
 
+.techmentor{
+    padding-top: 50px;
+}
+
 .techmentor h2{
     font-weight: 800;
     font-size: 30px;
