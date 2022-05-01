@@ -351,7 +351,63 @@ section{
     width: 250px;
 }
 
-.techmentor .techm .techrose
+/* .techmentor .techm .techrose .imgrose .rose{
+    top: 50%;
+    color: #fff;
+    
+} */
+
+.techmentor .techm .techrose .content-techrose{
+    padding-left: 10px;
+}
+
+.techmentor .techm .techrose .content-techrose h3{
+    color: #ec4067;
+    font-weight: 800;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 18px;
+}
+
+.techmentor .techm .techrose .content-techrose p{
+    padding-bottom: 10px;
+    font-size: 14px;
+    padding-right: 30px;
+}
+
+.techmentor .techm .techrose .content-techrose button{
+    width: 130px;
+    padding-top: 4px;
+    padding-bottom: 4px; 
+    /* border-radius: 7px;
+    border: none;
+    background-color: #ec4067; */
+}
+
+.techmentor .techm .techrose .content-techrose button a{
+    font-size: 14px;
+}
+
+.techmentor .techm .techrose .content-techrose #as{
+    background-color: #ec4067;
+    border-radius: 5px;
+    border: none;
+}
+
+.techmentor .techm .content-techrose #ask{
+    color: white;
+} 
+
+
+
+
+
+
+
+
+
+
+
 
 .techmentor .techm .techalbo{
     padding-right: 30px;
