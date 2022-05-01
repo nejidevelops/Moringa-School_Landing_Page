@@ -92,6 +92,7 @@ section{
 
 .landingpg .rowcon .content span{
     font-weight: 600;
+    padding-left: 10px;
 }
 
 .landingpg .rowcon .content h2{
@@ -149,7 +150,7 @@ section{
 }
 
 .orientation h2 sub{
-    font-size: 15px;
+    font-size: 12px;
 }
 
 .orientation .orie{
@@ -322,7 +323,7 @@ section{
     font-weight: 800;
     font-size: 30px;
 }
-/* I have to revisit the bg color */
+
 .techmentor h2 #span-story{
     font-weight: 800;
     font-size: 30px;
@@ -333,7 +334,8 @@ section{
     font-weight: 800
 }
 .techmentor h2 sup{
-    font-size: 15px;
+    font-size: 12px;
+    padding-left: 10px;
 }
 
 .techmentor .techm{
@@ -533,3 +535,28 @@ section{
 .techmentor .techm .content-techtia #askia{
     color: white;
 }
+
+.project h2{
+    font-weight: 800;
+    font-size: 30px;
+    padding-top: 50px;
+}
+
+.project h2 #back{
+    font-weight: 800;
+    font-size: 30px;
+    background-color:rgb(231, 231, 231);
+} 
+
+.project h2 #norm-text{
+    font-size: 12px;
+    padding-left: 10px;
+}
+
+.project .projo{
+    display: flex;
+    padding-top: 90px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
