@@ -337,3 +337,7 @@ section{
     font-size: 15px;
 }
 
+.techmentor .techm{
+    display: flex;
+    padding-top: 30px;
+}
