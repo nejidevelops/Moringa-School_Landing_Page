@@ -556,7 +556,70 @@ section{
 .project .projo{
     display: flex;
     padding-top: 90px;
-    padding-left: 30px;
+}
+
+.project .projo .contt-img{
+    float: right;
+}
+
+.project .projo .contt-img img{
+    width: 650px;
+    height: 325px;
     padding-right: 30px;
 }
 
+.project .projo .contt-projo{
+    float: left;
+    padding-top: 20px;
+}
+
+.project .projo .contt-projo span{
+    font-weight: 600;
+}
+
+.project .projo .contt-projo h2{
+    color: #ec4067;
+    font-size: 40px;
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+.project .projo .contt-projo p{
+    padding-top: 20px;
+    padding-right: 3rem;
+    font-size: 16px;
+}
+
+.project .projo .contt-projo button{
+    margin-top: 25px;
+    width: 150px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.project .projo .contt-projo button a{
+    font-size: 20px;
+}
+
+.project .projo .contt-projo #lear{
+    background-color: #ec4067;
+    border-radius: 5px;
+    border: none;
+}
+
+.project .projo .contt-projo #learn{
+    color: white;
+}
+
+/* .decision{
+    padding-top: 70px;
+}
+
+.decision h3{
+    font-size: 30px;
+    color: #ec4067;
+}
+
+.decision p{
+
+} */
